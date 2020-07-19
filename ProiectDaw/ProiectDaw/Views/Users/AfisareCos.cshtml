@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "AfisareCos";
+}
+
+<h2>AfisareCos</h2>
+
+@foreach (ProiectDaw.Models.Product product in ViewBag.products)
+{
+    <div class="panel panel-article">
+        @Html.Partial("ShowProduct", product)
+        <div class="panel-footer article-panel-footer around">
+            <a class="btn btn-info" href="/Product/Show/@product.Id">Detalii Produs</a>
+
+            
+        </div>
+    </div>
+    <br />
+}

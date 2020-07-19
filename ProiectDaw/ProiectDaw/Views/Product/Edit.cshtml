@@ -1,0 +1,56 @@
+﻿@model ProiectDaw.Models.Product
+@{
+    ViewBag.Title = "Editare Produs";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm(actionName: "Edit", controllerName: "Product"))
+{
+    @Html.HttpMethodOverride(HttpVerbs.Put)
+
+    @Html.HiddenFor(m => m.Id)
+    @Html.Label("Old", "Varianta curenta")
+    <br />
+    @Html.Partial("ShowProduct", Model)
+    <br />
+    @Html.Label("New", "Varianta noua")
+    <br />
+    @Html.Label("Title", "Nume Produs")
+    <br />
+    @Html.Editor("Title")
+    @Html.ValidationMessageFor(m => m.Title, "", new { @class = "text-danger" })
+    <br />
+    <br />
+    @Html.Label("Price", "Pret Produs")
+
+    <br />
+    @Html.Editor("Price")
+    @Html.ValidationMessageFor(m => m.Price, "", new { @class = "text-danger" })
+    <br />
+
+
+    @Html.Label("Description", "Detalii Produs")
+    <br />
+    @Html.EditorFor(m => m.Description)
+    <br />
+    <br />
+    @Html.Label("Image_path", "Sursa imagine")
+    @Html.Editor("Image_path")
+    @Html.ValidationMessageFor(m => m.Image_path, "", new { @class = "text-danger" })
+    <br />
+    <label>Selectati categoria</label>
+
+
+    @Html.DropDownListFor(m => m.CategoryId, new SelectList(Model.Categories, "Value", "Text"),
+        "Selectati categoria", new { @class = "form-control" })
+
+    @Html.ValidationMessageFor(m => m.CategoryId, "", new { @class = "text-danger" })
+    <br />
+
+
+
+    <button class="btn btn-sm btn-success" type="submit">Modifica Produs</button>
+
+
+}

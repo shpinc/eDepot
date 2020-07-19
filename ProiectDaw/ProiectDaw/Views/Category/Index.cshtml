@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Lista categorii";
+}
+
+
+<br />
+<br />
+<br />
+<br />
+
+@if (TempData.ContainsKey("message"))
+{
+    <h3 class="alert alert-info" role="alert">@ViewBag.message</h3>
+}
+
+@foreach (var category in ViewBag.Categories)
+{
+    <div class="panel panel-article">
+        
+        <p>@category.CategoryName</p>
+            <div class="panel-footer article-panel-footer around">
+            <a class="btn btn-info" href="/Category/Show/@category.CategoryId">Afisare categorie</a>
+            <a class="btn btn-warning" href="/Category/Edit/@category.CategoryId">Editare categorie</a>
+        </div>
+    </div>
+}
+
+        

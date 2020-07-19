@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @*@Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })*@
+                <a  href="/Product/Index">
+                <img class="Logo" >
+                </a>
+                    </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Produse", "Index", "Product")</li>
+                    @if (User.IsInRole("Admin") || User.IsInRole("Collaborator"))
+                    {
+                        <li>@Html.ActionLink("Produs nou", "New", "Product")</li>
+}
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <li>@Html.ActionLink("Aprobare produse ", "PendingApproval", "Product")</li>
+                        <li>@Html.ActionLink("Categorii", "Index", "Category")</li>
+                        <li>@Html.ActionLink("Categorie noua", "New", "Category")</li>
+                        <li>@Html.ActionLink("Administrare Useri", "Index", "Users")</li>
+}                       
+                    <li>
+                        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+                        <div class="search-container">
+                            <form action="/Search">
+                                <input id="sb" type="text" placeholder="Search.." name="search">
+                                @*<button type="submit"><i class="fa fa-search"></i></button>*@
+                                <a id="linkq" onclick="parametru()" class=" fa fa-search full-width" href="">Sterge</a>
+                                <script>
+                                    function parametru() {
+                                        var x = document.getElementsByClassName("sb").value;
+                                        document.getElementById("linkq").href = "/Product/Search" + x;
+                                    }
+                                </script>
+
+                            </form>
+                        </div>
+                    </li>
+                </ul>
+                @Html.Partial("_LoginPartial")
+
+               
+            </div>
+                </div>
+            </div>
+            <div class="container body-content">
+                @RenderBody()
+                <hr />
+                <footer>
+                    <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+                </footer>
+            </div>
+
+            @Scripts.Render("~/bundles/jquery")
+            @Scripts.Render("~/bundles/bootstrap")
+            @RenderSection("scripts", required: false)
+        </body>
+        </html>

@@ -1,0 +1,54 @@
+﻿@using Microsoft.AspNet.Identity
+
+
+@model ProiectDaw.Models.Product
+
+@{
+    ViewBag.Title = "Show";
+}
+
+<h1>Afisare produs</h1>
+
+<div class="panel panel-default">
+    @Html.Partial("ShowProduct", Model)
+
+</div>
+@if (User.IsInRole("Admin") || (User.IsInRole("Collaborator") && User.Identity.GetUserId() == Model.UserId))
+{
+    <form method="post" action="/Product/Delete/@Model.Id">
+
+        @Html.HttpMethodOverride(HttpVerbs.Delete)
+        <br />
+        <button class="btn btn-danger" type="submit">Sterge produs</button>
+        <a class="btn btn-warning full-width" href="/Product/Edit/@Model.Id">Editare Produs</a>
+
+    </form>}
+<br>
+@if (User.IsInRole("Registred User") || User.IsInRole("Collaborator") || User.IsInRole("Admin"))
+{
+    using (Html.BeginForm(actionName: "New", controllerName: "Review"))
+    {
+        @Html.Label("Review", "Comentariu produs")
+        <br />
+        @Html.TextArea("Review", null, new { @class = "form-control" })
+
+
+        @Html.Label("Rating", "rating produs")
+        <br />
+        @Html.TextArea("Rating", null, new { @class = "form-control" })
+
+        @Html.HiddenFor(m => m.Id)
+
+        <button class="btn btn-sm btn-primary" type="submit">Adauga review</button>
+
+
+
+    }
+}
+
+<a href="#" class="btn btn-info btn-lg">
+    <span class="glyphicon glyphicon-shopping-cart"></span>Adauga in Cos
+</a>
+<a class="btn btn-success" href="/Product/Index">Inapoi la produse</a>
+
+

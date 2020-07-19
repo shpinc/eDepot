@@ -1,0 +1,52 @@
+﻿@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Afisare Produse Descrescator ";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<hr />
+
+@if (TempData.ContainsKey("message"))
+{
+    <h3 class="alert alert-info" role="alert">@ViewBag.message</h3>
+
+}
+@foreach (ProiectDaw.Models.Product product in ViewBag.Products)
+{
+    <div class="panel panel-article">
+        @Html.Partial("ShowProduct", product)
+        <div class="panel-footer article-panel-footer around">
+            <a class="btn btn-info" href="/Product/Show/@product.Id">Detalii Produs</a>
+
+            @if ((User.IsInRole("Collaborator") && User.Identity.GetUserId() == Model.UserId) || User.IsInRole("Admin"))
+            {
+                <a class="btn btn-warning full-width" href="/Product/Edit/@product.Id">Editare Produs</a>
+            }
+        </div>
+    </div>
+    <br />
+}
+
+<div>
+    <nav aria-label="Page navigation">
+        <ul class="pagination">
+            <li>
+                <a href="/Product/Index?page=1" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>
+            @for (int i = 1; i <= ViewBag.lastPage; i++)
+            {
+                <li><a href="/Product/Index?page=@i">@(i)</a></li>
+            }
+            <li>
+                <a href="/Product/Index?page=@(ViewBag.lastPage)" aria-label="Next">
+                    <span aria-hidden="true">&raquo;</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>
+<br />
+

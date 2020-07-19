@@ -1,0 +1,31 @@
+﻿@model ProiectDaw.Models.Product
+
+
+<div class="panel-heading">@Model.Title</div>
+<div class="panel-body">
+    Continut produs: <strong>@Model.Description</strong>
+    <br />
+    <span class="label label-success">@Model.Price Ron</span>
+    <br />
+    @if (@Model.ReviewsId != null)
+    {
+        
+    <div>Ratingul este  @Model.Rating</div>
+        
+        foreach (ProiectDaw.Models.Review review in ViewBag.Reviews )
+        {   if (review.ProductId == Model.Id)
+            {
+            @Html.Partial("ShowReview", review);
+            }
+        }
+    }
+
+
+    else
+    {
+        <div>nu exista reviewuri</div>
+    }
+
+    <img src=@Model.Image_path alt="Poza nedisponibila" height="50" width="50">
+    <br />
+</div>

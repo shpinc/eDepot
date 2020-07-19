@@ -1,0 +1,22 @@
+﻿@using Microsoft.AspNet.Identity
+
+
+@model ProiectDaw.Models.Category
+
+<br />
+<br />
+<br />
+    <div class="panel panel-default">
+        @Model.CategoryName
+
+    </div>
+    <form method="post" action="/Category/Delete/@Model.CategoryId">
+
+        @Html.HttpMethodOverride(HttpVerbs.Delete)
+        <br />
+        <button class="btn btn-danger" type="submit">Sterge Categorie</button>
+        <a class="btn btn-warning full-width" href="/Category/Edit/@Model.CategoryId">Editare Categorie</a>
+
+    </form>
+</body>
+</html>

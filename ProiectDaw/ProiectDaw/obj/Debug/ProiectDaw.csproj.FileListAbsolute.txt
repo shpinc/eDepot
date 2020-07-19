@@ -1,0 +1,208 @@
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\ProiectDaw.dll.config
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\ProiectDaw.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\ProiectDaw.pdb
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\csc.exe
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\csc.exe.config
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\csc.rsp
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\csi.exe
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\csi.exe.config
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\csi.rsp
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.AppContext.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.Console.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.IO.Compression.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.Security.Claims.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.ValueTuple.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\vbc.exe
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\vbc.exe.config
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\vbc.rsp
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Antlr3.Runtime.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\EntityFramework.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\EntityFramework.SqlServer.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Newtonsoft.Json.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Owin.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\System.Web.Helpers.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\System.Web.Mvc.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\System.Web.Optimization.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\System.Web.Razor.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\System.Web.WebPages.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\System.Web.WebPages.Razor.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\WebGrease.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\System.Web.Helpers.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\System.Web.Mvc.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\System.Web.Optimization.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\System.Web.Razor.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\System.Web.WebPages.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\System.Web.WebPages.Razor.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Newtonsoft.Json.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Antlr3.Runtime.pdb
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\EntityFramework.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\EntityFramework.SqlServer.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\obj\Debug\ProiectDaw.csprojAssemblyReference.cache
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\obj\Debug\ProiectDaw.csproj.CopyComplete
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\obj\Debug\ProiectDaw.dll
+C:\Users\ANDREI\source\repos\ProiectDaw\ProiectDaw\obj\Debug\ProiectDaw.pdb
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\ProiectDaw.dll.config
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\ProiectDaw.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\ProiectDaw.pdb
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\csc.exe
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\csc.exe.config
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\csc.rsp
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\csi.exe
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\csi.exe.config
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\csi.rsp
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.AppContext.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.Collections.Immutable.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.Console.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.IO.Compression.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.IO.FileSystem.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.IO.Pipes.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.Reflection.Metadata.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.Security.AccessControl.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.Security.Claims.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.ValueTuple.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.Xml.XPath.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\vbc.exe
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\vbc.exe.config
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\vbc.rsp
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\VBCSCompiler.exe
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\roslyn\VBCSCompiler.exe.config
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Antlr3.Runtime.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\EntityFramework.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\EntityFramework.SqlServer.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.Google.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.Web.Infrastructure.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Newtonsoft.Json.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Owin.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\System.Web.Helpers.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\System.Web.Mvc.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\System.Web.Optimization.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\System.Web.Razor.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\System.Web.WebPages.Deployment.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\System.Web.WebPages.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\System.Web.WebPages.Razor.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\WebGrease.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\EntityFramework.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\EntityFramework.SqlServer.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\System.Web.Helpers.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\System.Web.Mvc.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\System.Web.Optimization.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\System.Web.Razor.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\System.Web.WebPages.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\System.Web.WebPages.Deployment.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\System.Web.WebPages.Razor.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Newtonsoft.Json.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Antlr3.Runtime.pdb
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.Google.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\obj\Debug\ProiectDaw.csprojAssemblyReference.cache
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\obj\Debug\ProiectDaw.csproj.CopyComplete
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\obj\Debug\ProiectDaw.dll
+D:\Scoala\Faculta\An 3\Semestrul 1\Dezvoltare Aplicatii Web\Tema\ProiectDaw6\ProiectDaw\ProiectDaw\obj\Debug\ProiectDaw.pdb

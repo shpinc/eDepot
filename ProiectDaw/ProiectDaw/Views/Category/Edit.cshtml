@@ -1,0 +1,18 @@
+﻿@model ProiectDaw.Models.Category
+@{
+    ViewBag.Title = "Editare Produs";
+}
+<br />
+<br />
+<br />
+@using (Html.BeginForm(actionName: "Edit", controllerName: "Category"))
+{
+    @Html.HttpMethodOverride(HttpVerbs.Put)
+
+    @Html.HiddenFor(m => m.CategoryId)
+    
+    @Html.Label("Category Name", "Noul nume al categoriei")
+    <br />
+    @Html.Editor("CategoryName")
+    <button class="btn btn-sm btn-success" type="submit">Modifica Categorie</button>
+}
